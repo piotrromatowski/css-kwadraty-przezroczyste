@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(206, 205, 197);
+}
+
+
+div,
+
+.square1 {
+    background-color: black;
+    height: 120px;
+    width: 120px;
+    opacity: 1;
+    margin: 10px auto;
+}
+
+.square2 {
+    background-color: black
+    height: 120px;
+    width: 120px;
+    opacity: 0.7;
+    margin: 10px auto;
+}
+
+.square3 {
+    background-color: black
+    height: 120px;
+    width: 120px;
+    opacity: 0.5;
+    margin: 10px auto;
+}
+
+.square4 {
+    background-color: black
+    height: 120px;
+    width: 120px;
+    opacity: 0.2;
+    margin: 10px auto;
+}
+
