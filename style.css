@@ -5,35 +5,29 @@ body {
 
 div,
 
-.square1 {
+.square1,
+.square2,
+.square3,
+.square4 {
     background-color: black;
     height: 120px;
     width: 120px;
-    opacity: 1;
     margin: 10px auto;
+}
+
+.square1 {
+    opacity: 1;
 }
 
 .square2 {
-    background-color: black
-    height: 120px;
-    width: 120px;
     opacity: 0.7;
-    margin: 10px auto;
 }
 
 .square3 {
-    background-color: black
-    height: 120px;
-    width: 120px;
     opacity: 0.5;
-    margin: 10px auto;
 }
 
 .square4 {
-    background-color: black
-    height: 120px;
-    width: 120px;
     opacity: 0.2;
-    margin: 10px auto;
 }
 
